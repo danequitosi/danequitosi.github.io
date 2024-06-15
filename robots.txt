@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://danequitosi.github.io/sitemap
+Sitemap: https://danequitosi.github.io/app/sitemap
+Sitemap: https://danequitosi.github.io/assets/sitemap
+Sitemap: https://danequitosi.github.io/css/sitemap
+Sitemap: https://danequitosi.github.io/includes/sitemap
+Sitemap: https://danequitosi.github.io/item/sitemap
+Sitemap: https://danequitosi.github.io/src/sitemap
